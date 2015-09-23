@@ -23,12 +23,6 @@ E26Academy/DerivedDataCache
 E26Academy/Intermediate
 E26Academy/Saved
 
-# Ignore project files in the root
-/*.sln
-/*.xcodeproj
-/*/*.sln
-/*/*.xcodeproj
-
 # Ignore local user Visual Studio files in any folder
 *.suo
 *.opensdf

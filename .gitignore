@@ -18,6 +18,11 @@
 /Intermediate
 /Saved
 
+E26Academy/Binaries
+E26Academy/DerivedDataCache
+E26Academy/Intermediate
+E26Academy/Saved
+
 # Ignore project files in the root
 /*.sln
 /*.xcodeproj

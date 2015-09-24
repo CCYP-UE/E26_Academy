@@ -142,6 +142,7 @@ ipch/
 *.cachefile
 
 # Visual Studio profiler
+*.sln
 *.psess
 *.vsp
 *.vspx
